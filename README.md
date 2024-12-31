@@ -10,9 +10,7 @@
 - **Contact Integration:** Easy-to-use forms and contact details for customer inquiries.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** [Specify if applicable, e.g., Node.js, PHP, etc.]  
-- **Other Tools:** [Specify if applicable, e.g., Bootstrap, Tailwind CSS]  
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
 
 ## 📦 Installation Instructions  
 1. Clone the repository:  
